@@ -19,7 +19,7 @@ Apideploy遵从以下设计理念：
 
 ### 产品架构
 
-![en_intro](E:\project\kalman\apideploy\apideploy-docs\getting-started\en_intro.jpg)
+![en_intro](en_intro.jpg)
 
 Apideploy核心分为两部分：**API文档生成SDK+API托管与调试平台**。
 
