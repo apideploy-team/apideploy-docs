@@ -1,29 +1,50 @@
 {
-	"title":"Apideploy",
+    "title": "Apideploy",
     "description": "Apideploy帮助中心",
     "plugins": [
         "theme-xinbeitime",
-		"sitemap-general"
+        "sitemap-general"
     ],
     "pluginsConfig": {
         "theme-xinbeitime": {
             "search-placeholder": "输入关键字搜索",
-            "logo": "./logo.svg",
+            "logo": "./logo.png",
             "favicon": "./favicon.ico",
-			"copyright":"Copyright &copy apideploy.com 2023",
-			"modify_label": "最后更新：",
-			"modify_format": "YYYY-MM-DD HH:mm"
+            "copyright": "Copyright &copy apideploy.cn 2023",
+            "modify_label": "最后更新：",
+            "modify_format": "YYYY-MM-DD HH:mm"
         },
-		"sitemap-general": {
-            "prefix": "https://help.apideploy.com"
+        "sitemap-general": {
+            "prefix": "https://doc.apideploy.cn"
         }
     },
     "variables": {
         "xinbeitime": {
-            "nav": [{
+            "nav": [
+                {
                     "url": "https://www.apideploy.com",
                     "target": "_blank",
-                    "name": "前往官网"
+                    "name": "首页"
+                },
+                {
+                    "url": "https://www.apideploy.com/docs/introduce",
+                    "target": "_blank",
+                    "name": "价格"
+                },
+                {
+                    "url": "https://github.com/orgs/apideploy-team/projects/1",
+                    "target": "_blank",
+                    "name": "迭代计划"
+                },
+                {
+                    "url": "https://doc.apideploy.cn",
+                    "target": "",
+                    "name": "帮助文档"
+                },
+                {
+                    "url": "https://www.apideploy.cn/pages/contact.html",
+                    "target": "_blank",
+                    "name": "关于我们"
                 }
             ]
         }

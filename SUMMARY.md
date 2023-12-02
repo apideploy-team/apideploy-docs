@@ -1,14 +1,14 @@
 # Summary
 * [帮助中心](README.md)
 
-* [入门](getting-started/index.md)
+* [入门](getting-started/guide-start.md)
 
     * [产品简介](getting-started/apideploy-overview.md)
     * [产品计费](getting-started/apideploy-pricing.md)
     * [联系我们](getting-started/apideploy-contact.md)
 
-* [操作指南](user-guide/index.md)
-    
+* [操作指南](user-guide/guide.md)
+  
     * [文档生成原理](user-guide/apideploy-generation-principle.md)
     * [Java SDK接入](user-guide/apideploy-java-sdk-access.md)
     * [Golang SDK接入](user-guide/apideploy-go-sdk-access.md)

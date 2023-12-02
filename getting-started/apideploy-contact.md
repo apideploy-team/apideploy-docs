@@ -1,6 +1,10 @@
 ### 联系我们
 
-邮箱：huntsbot@xinbeitime.com
+邮箱：apideploy@xinbeitime.com
 
-QQ：369166852
+微信：jx-2012(添加备注：apideploy)
+
+
+
+更多请参考官网：[关于我们](https://www.apideploy.cn/pages/contact.html)
 
