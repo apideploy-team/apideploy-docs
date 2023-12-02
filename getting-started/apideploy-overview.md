@@ -4,7 +4,7 @@
 
 作者基于自己多年的研发经验和在创业团队亲身经历，参考了国内外多个API管理工具和实现，始终觉得一款精美、高效的API平台工具，对开发者的意义重大。在苦苦找寻与对比下，各API管理工具依旧没有达到作者的期望，于是亲自下场，一怒之下写下了Apideploy。
 
-Ad.：关于作者更多的路发冲冠之作，可以关注作者主页：https://www.kalman03.com
+Ad.：关于作者更多的路发冲冠之作，可以关注作者主页：[https://www.kalman03.com](https://www.kalman03.com)
 
 ### 设计理念
 
@@ -23,6 +23,6 @@ Apideploy遵从以下设计理念：
 
 Apideploy核心分为两部分：**API文档生成SDK+API托管与调试平台**。
 
-**API文档生成SDK**是完全开放源码的，访问https://github.com/apideploy-team 可以查阅。目前仅支持Java语言实现，其他语言社区用户可以贡献，或自行直接通过**API托管与调试平台**的RESTFull API进行对接。Java语言SDK实现基于javadoc注释方式自动生成API文档（无代码侵入方式），也兼容了基于swagger的实现。具体使用请参考：
+**API文档生成SDK**是完全开放源码的，访问[https://github.com/apideploy-team](https://github.com/apideploy-team) 可以查阅。目前仅支持Java语言实现，其他语言社区用户可以贡献，或自行直接通过**API托管与调试平台**的RESTFull API进行对接。Java语言SDK实现基于javadoc注释方式自动生成API文档（无代码侵入方式），也兼容了基于swagger的实现。具体使用请参考：
 
-**API托管与调试平台**主要功能包括：项目管理、团队协作、权限管理、API文档托管、文档调试、接口数据mock、版本更新记录、版本对比、个性化文档导出、多格式文档导入等，是一个集API全生命周期管理的平台，非常适合团队协作。目前**支持公有云与私有化部署**，www.apideploy.com是公有云的解决方案。
+**API托管与调试平台**主要功能包括：项目管理、团队协作、权限管理、API文档托管、文档调试、接口数据mock、版本更新记录、版本对比、个性化文档导出、多格式文档导入等，是一个集API全生命周期管理的平台，非常适合团队协作。目前**支持公有云与私有化部署**，[www.apideploy.com](www.apideploy.com)是公有云的解决方案。
