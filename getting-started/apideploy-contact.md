@@ -6,5 +6,5 @@
 
 
 
-更多请参考官网：[关于我们](https://www.apideploy.cn/pages/contact.html)
+更多请参考官网：[关于我们](https://www.apideploy.cn/pages/about.html)
 
